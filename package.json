@@ -58,7 +58,7 @@
     "nodeunit": "0.9.x"
   },
   "custom-deps": {
-    "ljswitchboard-ljm_device_curator": "0.0.x",
+    "ljswitchboard-device_scanner": "git://github.com/chrisJohn404/ljswitchboard-device_scanner.git#ljme_1230",
     "ljswitchboard-ljm_device_curator": "git://github.com/chrisJohn404/ljswitchboard-ljm_device_curator.git#master"
   },
   "directories": {
